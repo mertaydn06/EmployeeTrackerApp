@@ -1,0 +1,10 @@
+# Visual Studio Geçici Dosyalarý
+.vs/
+# Derleme dosyalarý
+bin/
+obj/
+# Kullanýcýya özel Visual Studio ayarlarý
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
